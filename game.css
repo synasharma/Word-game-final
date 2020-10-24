@@ -1,0 +1,59 @@
+body
+{
+	background: lightblue;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player_1_username , #player_2_username
+{
+	display: inline-block;
+	margin-left: 20px;
+	width:40%;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding:10px;
+float: none;
+text-align: left;
+margin-top:200px;
+}
+.scoreboard
+{
+	background-color:whitesmoke;
+	width:40%;
+	margin-right:10px;
+	
+}
+.QA
+{
+	background-color:lightpink;
+	width:50%;
+}
+#playername1,#playername2
+{
+	display:inline-block;
+	
+}
+#playerscore1,#playerscore2
+{
+	font-size:20px;
+}
